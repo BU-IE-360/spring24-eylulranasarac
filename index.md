@@ -7,6 +7,8 @@ HW1
 
 
 [Project](/Project.html){:target="_blank"}
+[Project Report](/Project-Report.pdf){:target="_blank"}
+
 
 
 
