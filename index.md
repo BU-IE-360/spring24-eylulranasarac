@@ -6,7 +6,7 @@ HW1
 [Part 3](/hw1_part3_electricity.html) <br>
 
 
-[Project](/Project.html){target="_blank"}
+[Project](/Project.html){:target="_blank"}
 
 
 
